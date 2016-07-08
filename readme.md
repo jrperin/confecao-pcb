@@ -34,3 +34,6 @@ Anotações para acertar depois:
     - www.quimagraf.com.br
     - www.masterprintis.com.br
     - www.reforlaser.com.br
+
+#### Links interessantes:
+  > http://destro.todavia.com.br/tutorial_solda_smd.php
