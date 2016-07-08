@@ -18,3 +18,19 @@ _Método foto sensível_
 3. ```*_etch_silk_top_mirror.svg``` _(com mirror)_ - Inverter as cores _(gerar negativo)_.
 
  > Usando esses arquivos, na hora de aplicar a luz, a tinta da impressora sempre ficará voltada para o cobre. Isso é importante para garantir a qualidade das trilhas na pcb.
+
+
+Anotações para acertar depois:
+- Renato Aloi (seriallink.com.br)
+  - https://www.youtube.com/watch?v=85cLRvjo1PY
+  - https://www.youtube.com/watch?v=m_8YmXqwhpk
+  
+- Produtos utilizados por ele:
+  - Barrilha leve (elever pH de piscina);
+  - Fast PCB;
+  - Lâmpada UV 28W;
+    - www.cifacil.com.br/loja
+  - Escurecedor de Toner laser; 
+    - www.quimagraf.com.br
+    - www.masterprintis.com.br
+    - www.reforlaser.com.br
