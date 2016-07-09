@@ -42,7 +42,7 @@ Anotações para acertar depois:
 
 #### SMD - Lojas:
 
- > SMD COMPONENTES ELETRÔNICOS
+ > **SMD COMPONENTES ELETRÔNICOS**
  
  > Lojas de Componentes Eletrônicos
  
@@ -54,11 +54,11 @@ Anotações para acertar depois:
   
  
   
+ > **Ponto da Eletrônica Ltda**
+ 
  > www.pontodaeletronica.com.br
  
  > www.pontodaeletronica.com 
- 
- > Ponto da Eletrônica Ltda
  
  > Rua Santa Ifigênia nº 295 - 1º Andar - Loja 101 
  
