@@ -36,4 +36,14 @@ Anotações para acertar depois:
     - www.reforlaser.com.br
 
 #### Links interessantes:
+
   > http://destro.todavia.com.br/tutorial_solda_smd.php
+
+
+#### SMD - Lojas:
+
+  > SMD COMPONENTES ELETRÔNICOS
+  > Lojas de Componentes Eletrônicos
+  > R dos Gusmões, 353 - And-06 cj-66 
+  > Santa Efigênia - São Paulo, SP - Cep: 01212-900
+  > (11) 3361-9966
