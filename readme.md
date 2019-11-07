@@ -50,9 +50,10 @@ Anotações para acertar depois:
    > R dos Gusmões, 353 - And-06 cj-66  
    > Santa Efigênia - São Paulo, SP - Cep: 01212-900  
    > (11) 3361-9966  
+   >  
    > **Ponto da Eletrônica Ltda**  
-   > <www.pontodaeletronica.com.br>  
-   > <www.pontodaeletronica.com>  
+   > www.pontodaeletronica.com.br  
+   > www.pontodaeletronica.com  
    > Rua Santa Ifigênia nº 295 - 1º Andar - Loja 101  
    > Santa Ifigênia - SP - CEP: 01207-000  
    > Loja Virtual / Atacado: (11) 3337-4933  
