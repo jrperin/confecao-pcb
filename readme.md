@@ -43,7 +43,7 @@ Anotações para acertar depois:
 
   > <http://destro.todavia.com.br/tutorial_solda_smd.php>
 
-## SMD - Lojas
+## Lojas Santa Ifigênia - SP
 
    > **SMD Componentes Eletrônicos**  
    > Lojas de Componentes Eletrônicos  
