@@ -19,7 +19,7 @@ Método foto sensível_
  > Usando esses arquivos, na hora de aplicar a luz, a tinta da impressora sempre ficará voltada para o cobre. Isso é importante para garantir a qualidade das trilhas na pcb.
 
 
-### Imagen de confecção
+### Silkscreen
 
 ![Imagem Silkscreen](https://github.com/jrperin/confecao-pcb/blob/gh-pages/images/esp8266_rele_v5.1_pcb.jpg)
 
