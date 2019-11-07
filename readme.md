@@ -45,7 +45,7 @@ Anotações para acertar depois:
 
 ## SMD - Lojas
 
-   > **SMD COMPONENTES ELETRÔNICOS**  
+   > **SMD Componentes Eletrônicos**  
    > Lojas de Componentes Eletrônicos  
    > R dos Gusmões, 353 - And-06 cj-66  
    > Santa Efigênia - São Paulo, SP - Cep: 01212-900  
