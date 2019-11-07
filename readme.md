@@ -45,15 +45,15 @@ Anotações para acertar depois:
 
 ## SMD - Lojas
 
-   > **SMD COMPONENTES ELETRÔNICOS**
-   > Lojas de Componentes Eletrônicos
+   > **SMD COMPONENTES ELETRÔNICOS**  
+   > Lojas de Componentes Eletrônicos  
    > R dos Gusmões, 353 - And-06 cj-66  
-   > Santa Efigênia - São Paulo, SP - Cep: 01212-900
-   > (11) 3361-9966
-   > **Ponto da Eletrônica Ltda**
-   > <www.pontodaeletronica.com.br>
-   > <www.pontodaeletronica.com  >
+   > Santa Efigênia - São Paulo, SP - Cep: 01212-900  
+   > (11) 3361-9966  
+   > **Ponto da Eletrônica Ltda**  
+   > <www.pontodaeletronica.com.br>  
+   > <www.pontodaeletronica.com>  
    > Rua Santa Ifigênia nº 295 - 1º Andar - Loja 101  
-   > Santa Ifigênia - SP - CEP: 01207-000
+   > Santa Ifigênia - SP - CEP: 01207-000  
    > Loja Virtual / Atacado: (11) 3337-4933  
-   > Loja Varejo: (11) 3337-2066
+   > Loja Varejo: (11) 3337-2066  
