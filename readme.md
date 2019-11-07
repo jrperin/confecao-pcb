@@ -1,6 +1,6 @@
 # Confeção de PCB
 
-Método foto sensível_
+Confeção de PCB através de método foto sensível.
 
 ## Fritizing
 
@@ -17,7 +17,6 @@ Método foto sensível_
 3. ```*_etch_silk_top_mirror.svg``` _(com mirror)_ - Inverter as cores _(gerar negativo)_.
 
  > Usando esses arquivos, na hora de aplicar a luz, a tinta da impressora sempre ficará voltada para o cobre. Isso é importante para garantir a qualidade das trilhas na pcb.
-
 
 ### Silkscreen
 
